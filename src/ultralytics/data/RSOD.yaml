@@ -1,0 +1,14 @@
+train: /root/RSOD/images/train
+val: /root/RSOD/images/val 
+#test: /root/RSOD/images/test
+
+# number of classes
+nc: 4
+
+# Classes
+names:
+  0: aircraft
+  1: oiltank
+  2: playground
+  3: overpass
+  
