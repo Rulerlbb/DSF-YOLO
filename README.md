@@ -21,6 +21,6 @@ project/
         ├── Ai Pest Detection Contest https://aistudio.baidu.com/datasetdetail/51399
         
 
-├── DSF-YOLO/          # source code and related yaml files
+├── DSF-YOLO/src          # source code and related yaml files, new designed model can be found in "nn" file and different dataset yaml are placed in "ultralytics/data"
 
 └── README.md    
